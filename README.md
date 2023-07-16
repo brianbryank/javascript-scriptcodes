@@ -26,7 +26,7 @@ then calculates the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross sala
 
 ## Setup instructions
 * Install nvm, node
-* Git clone ,,,,,,,,,,,,,,,, on your terminal. You can find the js folder and open it in your editor.
+* Git clone  git@github.com: brianbryank/javascript-scriptcodes.git on your terminal. You can find the js folder and open it in your editor.
 * Run node index.js to run the app locally
 
 ## Technologies used
