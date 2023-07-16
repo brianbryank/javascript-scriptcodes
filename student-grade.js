@@ -19,4 +19,4 @@ const gradeStudent = (grade) => {
     }
 }
 
-console.log(gradeStudent(40));
+console.log(gradeStudent(50));
